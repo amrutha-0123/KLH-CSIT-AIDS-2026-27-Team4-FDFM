@@ -1,0 +1,7 @@
+process-collector
+*.o
+*.out
+__pycache__/
+.vscode/
+.idea/
+.DS_Store
